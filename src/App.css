@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.App button {
+  background-color: coral;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+}
